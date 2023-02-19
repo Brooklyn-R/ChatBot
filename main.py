@@ -1,5 +1,4 @@
 # import open library
-import os
 import openai
 
 # set up open ai client
